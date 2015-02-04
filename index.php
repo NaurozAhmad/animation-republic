@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Cantix - One Page HTML Template</title>
+    <title>Animation Republic</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/cssloader.css" rel="stylesheet">
@@ -23,7 +23,7 @@
 
   <body data-spy="scroll" data-offset='90'>
 	<!-- Color Picker -->
-	<div id="color-picker">
+	<!-- <div id="color-picker">
 	    <h3>CHANGE SKIN <a href="#"><i class="fa fa-cogs"></i></a></h3>
 		<div id="options">
 			<ul class="colors thumbs">
@@ -32,7 +32,7 @@
 				<li><a href="#" class="blue" onclick="setActiveStyleSheet('blue'); return false;"></a></li>
 			</ul>
 		</div>
-	</div>	
+	</div>	 -->
   
 
 	<table class="doc-loader">
@@ -53,23 +53,23 @@
 <div class="scroll-contain">
 <div class="scroll">
 
-	<?php require_once '_sections/home.php' ?>
+	<?php require_once '_sections/1_home.php' ?>
 
     <?php require_once '_includes/header.php'; ?>
 		
-	<?php require_once '_sections/about.php' ?>
+	<?php require_once '_sections/2_about.php' ?>
 	
-	<?php require_once '_sections/services.php' ?>
+	<?php require_once '_sections/3_services.php' ?>
 		
-	<?php require_once '_sections/price.php' ?>
+	<?php require_once '_sections/4_price.php' ?>
 
 	<?php require_once '_includes/parallax.php' ?>
 		
-	<?php require_once '_sections/team.php' ?>
+	<?php require_once '_sections/5_team.php' ?>
 
-	<?php require_once '_sections/work.php' ?>
+	<?php require_once '_sections/6_work.php' ?>
 
-	<?php require_once '_sections/contact.php' ?>
+	<?php require_once '_sections/7_contact.php' ?>
 
 	<?php require_once '_includes/footer.php' ?>
 </div>

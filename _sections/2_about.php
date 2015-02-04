@@ -1,40 +1,40 @@
 <section id="about">
 		<div class="container">
 			<div class="title text-center from-top">
-				<h1>WELCOME TO CANTIX GRAPHICS DESIGN</h1>
+				<h1>WELCOME TO ANIMATION REPUBLIC</h1>
 				<div class="h1-line"></div>
 				<div class="h1-line-left"></div>
 				<div class="h1-line-right"></div>
-				<h3>We design <span class="color">business</span> and <span class="color">personal</span> web sites including other things.</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non justo volutpat ante rhoncus vehicula malesuada eget augue. Nam convallis lorem non sollicitudin faucibus. Ut dapibus neque lacus, vel molestie diam consequat vitae.</p>
+				<!-- <h3>We design <span class="color">business</span> and <span class="color">personal</span> web sites including other things.</h3> -->
+				<p><span class="color">Videos/animations</span> are powerful and fun way to explain your product. It’s a best sales and marketing tool saving your time and money. By 2016, 55% of all consumer internet traffic will come from online video. We provide end to end solution that includes everything from concept and script to the final video.</p>
 			</div>
 			
 			<div class="row">
 				<div class="col-md-3">
 					<div class="feature-box fade-in">
 						<i class="fa fa-thumbs-up feat-icon fa-3x"></i>
-						<h3>Great <span class="color">Support</span></h3>
+						<h3>Perfect <span class="color">Pitch Visitor</span></h3>
 						<p>Vodio deleniti atque corrupti quos quas molestias excepturi sint occaecati cupiditate non provident.</p>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="feature-box fade-in">
 						<i class="fa fa-tablet feat-icon fa-3x"></i>
-						<h3>Fully <span class="color">Responsive</span></h3>
+						<h3>Increase <span class="color">Web Traffic</span></h3>
 						<p>Vodio deleniti atque corrupti quos quas molestias excepturi sint occaecati cupiditate non provident.</p>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="feature-box fade-in">
 						<i class="fa fa-lightbulb-o feat-icon fa-3x"></i>
-						<h3>Unlimited <span class="color">Skins</span></h3>
+						<h3>Easily <span class="color">Shareable</span></h3>
 						<p>Vodio deleniti atque corrupti quos quas molestias excepturi sint occaecati cupiditate non provident.</p>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="feature-box fade-in">
 						<i class="fa fa-flask large feat-icon fa-3x"></i>
-						<h3>Easy To <span class="color">Collaborate</span></h3>
+						<h3><span class="color">Engage</span></h3>
 						<p>Vodio deleniti atque corrupti quos quas molestias excepturi sint occaecati cupiditate non provident.</p>
 					</div>
 				</div>
@@ -45,7 +45,7 @@
 			<div class="container">
 				<div class="fancy-header fade-in">
 					<h1>Why Choose Us In <span class="color">Your Project</span></h1>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non justo volutpat ante rhoncus vehicula malesuada eget augue. Nam convallis lorem non sollicitudin faucibus. Ut dapibus neque lacus, vel molestie diam consequat vitae.</p>
+					<p>When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue. We bring together our team of storytellers, an intuitive script writer, a creative animator, an engaging vocalist and there you go! Your idea travels!</p>
 				</div>
 				
 				<div class="dot dot-build">
@@ -86,8 +86,8 @@
 		<div id="quote-parallax" class="parallax-bg"></div><!-- END PARALLAX BACKGROUND -->
 		<div class="overlay"></div><!-- END PATTERN OVERLAY -->
 			<div class="container content text-center fade-in">	
-				<blockquote><h3>Duis fringilla fringilla lorem, at ultricies tortor elementum sed. Fusce non ligula tortor, ut hendrerit magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3></blockquote>
-				<p> Albert Einstein, <small><a href="#"> www.dewitech.com </a></small></p>
+				<blockquote><h3>We know what you are good at. We connect what you do with other people because you know your idea is good, we just help you pitch it to those who need to hear it.</h3></blockquote>
+				<!-- <p> Albert Einstein, <small><a href="#"> www.dewitech.com </a></small></p> -->
 			</div>
 		</div>
 		

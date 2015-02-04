@@ -5,14 +5,14 @@
 				<div class="h1-line"></div>
 				<div class="h1-line-left"></div>
 				<div class="h1-line-right"></div>
-				<h3>Powerful Websites That Look <span class="color">Beautiful.</span></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non justo volutpat ante rhoncus vehicula malesuada eget augue. Nam convallis lorem non sollicitudin faucibus. Ut dapibus neque lacus, vel molestie diam consequat vitae.</p>
+				<!-- <h3>Powerful Websites That Look <span class="color">Beautiful.</span></h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non justo volutpat ante rhoncus vehicula malesuada eget augue. Nam convallis lorem non sollicitudin faucibus. Ut dapibus neque lacus, vel molestie diam consequat vitae.</p> -->
 			</div>
 			
 			<div class="row">
 				<div class="col-md-6 serv fade-in">
 					<div class="col-md-10 text-right">
-						<h3>5 Rating <span class="color">Services</span></h3>
+						<h3>2D <span class="color">Animation</span></h3>
 						<p>Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu ped, fermentum et, dapibus sed, urna.</p>
 					</div>
 					<div class="pull-left text-center">
@@ -24,11 +24,11 @@
 						<i class="fa fa-comments serv-icon fa-2x"></i>
 					</div>
 					<div class="col-md-10 text-left">
-						<h3>Great Customer <span class="color">Support</span></h3>
+						<h3>Explainer <span class="color">Videos</span></h3>
 						<p>Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu ped, fermentum et, dapibus sed, urna.</p>
 					</div>
 				</div> <!-- End Span6 -->
-				<div class="col-md-6 serv fade-in">
+				<!-- <div class="col-md-6 serv fade-in">
 					<div class="col-md-10 text-right">
 						<h3>Easy To <span class="color">Resvonsive</span></h3>
 						<p>Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu ped, fermentum et, dapibus sed, urna.</p>
@@ -36,7 +36,7 @@
 					<div class="pull-left text-center">
 						<i class="fa fa-qrcode serv-icon fa-2x"></i>
 					</div>
-				</div> <!-- End Span6 -->
+				</div> End Span6
 				<div class="col-md-6 serv fade-in">
 					<div class="pull-left text-center">
 						<i class="fa fa-magic serv-icon fa-2x"></i>

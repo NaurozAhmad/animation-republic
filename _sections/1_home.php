@@ -7,7 +7,6 @@
 				<div id="home-slider" class="flexslider from-top">			
 					<ul class="slides styled-list">
 						<li class="home-slide"><p class="home-slide-content">WELCOME TO THE <span class="color">OFFICE</span></p></li>
-						<li class="home-slide"><p class="home-slide-content">MINIMAL <span class="color">DESIGN</span></p></li>
 						<li class="home-slide"><p class="home-slide-content">WE ARE <span class="color">CREATIVE</span> NERDS</p></li>
 					</ul>
 				</div>
@@ -21,7 +20,7 @@
 						<span class="line-after"></span>
 					</div>
 					
-					<div class="second-title fade-in">We build perfection, so you can get a product which complies with our quality standarts. <span class="color">Take action &amp; keep it simple.</span></div>
+					<div class="second-title fade-in">We build quality explainer videos for your product. It's Rocket Fuel For Your Business! <span class="color">Take action &amp; keep it simple.</span></div>
 					<a href="#" class="btn btn-primary from-left">Get It Now →</a>
 					<div class="startarrow">
 						<a href="#about"><i id="startarrow" class="fa fa-angle-double-down animated bounce"></i></a>

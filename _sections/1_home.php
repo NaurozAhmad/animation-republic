@@ -1,6 +1,10 @@
 <section id="home">
 		<div class="homes">
-		<div id="pall-home" class="parallax-bg"></div><!-- END PARALLAX BACKGROUND -->
+		<div id="pall-home" class="parallax-bg">
+			<video loop autoplay poster="assets/img/bg-vid.png" id="bg-vid">
+				<source src="assets/videos/2.mp4" >
+			</video>
+		</div><!-- END PARALLAX BACKGROUND -->
 		<div class="overlay-home"></div><!-- END PATTERN OVERLAY -->
 			<div class="content text-center">	
 				<div class="second">

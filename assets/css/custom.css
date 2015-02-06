@@ -44,3 +44,30 @@ a, .color, .counters i, .pricing-box li h1, .pricing-box .btn-primary:hover, .te
 .navbar-brand img {
 	height: 60px;
 }
+#pall-home {
+    background: none;
+}
+video#bg-vid { 
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    width: 100%;
+    height: auto;
+    z-index: -100;
+    background: url(assets/img/bg-vid.png) no-repeat;
+    background-size: cover; 
+}
+
+
+@media screen and (max-device-width: 800px) {
+    body {
+        background: url(assets/img/bg-vid.png) #000 no-repeat center center fixed; 
+    }
+    #bgvid {
+        display: none;
+    }
+}
+
+
+

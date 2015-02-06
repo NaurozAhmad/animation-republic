@@ -75,7 +75,9 @@
 	<?php require_once '_includes/footer.php' ?>
 </div>
 </div>
-
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="assets/vide/libs/jquery/dist/jquery.min.js"><\/script>')</script>
+	<script type="text/javascript" src="assets/vide/src/jquery.vide.js"></script>
     <script type="text/javascript" src="assets/js/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="assets/js/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>

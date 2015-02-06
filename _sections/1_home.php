@@ -5,7 +5,6 @@
 				<source src="assets/videos/2.mp4" >
 			</video>
 		</div><!-- END PARALLAX BACKGROUND -->
-		
 		<div class="overlay-home"></div><!-- END PATTERN OVERLAY -->
 			<div class="content text-center">	
 				<div class="second">

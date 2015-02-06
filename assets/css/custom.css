@@ -44,9 +44,6 @@ a, .color, .counters i, .pricing-box li h1, .pricing-box .btn-primary:hover, .te
 .navbar-brand img {
 	height: 60px;
 }
-.navbar .nav > li > a {
-    padding: 29px 16px 26px;
-}
 #pall-home {
     background: none;
 }
@@ -55,20 +52,19 @@ video#bg-vid {
     right: 0;
     bottom: 0;
     min-width: 100%;
-    min-height: 100%;
     width: 100%;
     height: auto;
-    z-index: -1000;
+    z-index: -100;
     background: url(assets/img/bg-vid.png) no-repeat;
-    background-size: cover;
+    background-size: cover; 
 }
 
 
-@media screen and (max-width: 800px) {
-    #pall-home {
-        background: url(assets/img/bg-vid.png) no-repeat center center fixed;
+@media screen and (max-device-width: 800px) {
+    body {
+        background: url(assets/img/bg-vid.png) #000 no-repeat center center fixed; 
     }
-    #bg-vid {
+    #bgvid {
         display: none;
     }
 }

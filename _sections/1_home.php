@@ -26,7 +26,7 @@
 						</span>
 						<span class="line-after"></span>
 					</div>
-					
+					<img src="assets/images/logo.svg">
 					<div class="second-title fade-in">We build quality explainer videos for your product. It's Rocket Fuel For Your Business! <span class="color">Take action &amp; keep it simple.</span></div>
 					<a href="#" class="btn btn-primary from-left">Get It Now →</a>
 					<div class="startarrow">

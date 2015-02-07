@@ -84,7 +84,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12 project text-center fade-in">
-									<img src="assets/img/about.png">
+									<img src="assets/img/about-pic.png">
 								</div>
 							</div>
 						</div>
